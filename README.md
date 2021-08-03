@@ -25,5 +25,5 @@ ________________________________________________________________________________
 Implementation
 ----------------------
 /src/main/java/testbase/BaseClass.java   --- Baseclass with basic browser initialization & synchronization
-QAAssesment_Repo/src/test/java/testClasses/   ----- Contains the different test classes dealing with Subtraction, division, clear button functionality
+/src/test/java/testClasses/   ----- Contains the different test classes dealing with Subtraction, division, clear button functionality
 ___________________________________________________________________________________________________________________________
