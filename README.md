@@ -16,13 +16,14 @@ Maven 3.6
 Chrome and Chromedriver (Currently supports execution in Chrome on Windows only)
 Java 1.8
 
-Test Execution:
-******************************
+Test Execution
+----------------------
 cd ${Project Folder}
 mvn clean test
 
 ________________________________________________________________________________________________________________________
-Implementation :
+Implementation
+----------------------
 /src/main/java/testbase/BaseClass.java   --- Baseclass with basic browser initialization & synchronization
 QAAssesment_Repo/src/test/java/testClasses/   ----- Contains the different test classes dealing with Subtraction, division, clear button functionality
 ___________________________________________________________________________________________________________________________
