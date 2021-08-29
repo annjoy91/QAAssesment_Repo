@@ -11,7 +11,7 @@ public class BaseClass {
 	public static Actions builder;
 
 	public static void initialization(String url) {
-		//Browser Initialization
+		//Browser Initialization test tt
 		System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
 		driver = new ChromeDriver();
 		builder = new Actions(driver);
