@@ -1,6 +1,6 @@
 Online Calculator Test Automation
 *********************************
-Application URL : https://www.online-calculator.com/full-screen-calculator/
+Application URL : https://www.online-calculator.com/full-screen-calculator/3
 
 Tools:
 ---------
