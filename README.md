@@ -1,4 +1,4 @@
-Online Calculator Test Automationn535
+Online Calculator Test Automation
 *********************************
 Application URL : https://www.online-calculator.com/full-screen-calculator/
 
