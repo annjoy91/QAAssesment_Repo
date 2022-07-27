@@ -9,6 +9,7 @@ import testbase.BaseClass;
 
 public class OnlineCalculatorClearButtonTest extends BaseClass {
 
+	//sample
 	@BeforeMethod
 	public void setUp() {
 		initialization("https://www.online-calculator.com/full-screen-calculator/");
