@@ -9,7 +9,7 @@ import testbase.BaseClass;
 
 public class OnlineCalculatorClearButtonTest extends BaseClass {
 
-	//sampl
+	//sample
 	//test
 	//tes
 	@BeforeMethod
