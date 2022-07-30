@@ -12,6 +12,7 @@ public class OnlineCalculatorClearButtonTest extends BaseClass {
 	//sampleteh REVIRE CHNAGES ACCOMODATED
 	//test
 	//tes 1111111111111111
+	//REDUCED
 	@BeforeMethod
 	public void setUp() {
 		initialization("https://www.online-calculator.com/full-screen-calculator/");
@@ -32,6 +33,7 @@ public class OnlineCalculatorClearButtonTest extends BaseClass {
 	}
 
 	//tes 22222222222222
+	//reduced
 	@Test(priority = 3, description = "This TestCase will validate functionality of clear button preceded by entry of another clear button click ")
 	public void divisionTC3() {
 		builder.sendKeys("c").perform(); // 1st clear button click
