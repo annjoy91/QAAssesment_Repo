@@ -9,7 +9,7 @@ import testbase.BaseClass;
 
 public class OnlineCalculatorClearButtonTest extends BaseClass {
 
-	//samplete
+	//sampleteh REVIRE CHNAGES ACCOMODATED
 	//test
 	//tes
 	@BeforeMethod
