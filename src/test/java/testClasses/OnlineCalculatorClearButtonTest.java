@@ -6,13 +6,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import testbase.BaseClass;
-
-public class OnlineCalculatorClearButtonTest extends BaseClass {
-	//committing from remote2
-	//sampleteh REVIRE CHNAGES ACCOMODATED
-	//test
-	//tes 1111111111111111
-	//REDUCED
+//1st commit branch1 //1st commit WIP Test //comment fixed
+public class OnlineCalculatorClearButtonTest extends BaseClass {	
 	@BeforeMethod
 	public void setUp() {
 		initialization("https://www.online-calculator.com/full-screen-calculator/");
