@@ -11,7 +11,7 @@ public class OnlineCalculatorClearButtonTest extends BaseClass {
 	//committing from remote
 	//sampleteh REVIRE CHNAGES ACCOMODATED
 	//test
-	//tes
+	//tes 1111111111111111
 	@BeforeMethod
 	public void setUp() {
 		initialization("https://www.online-calculator.com/full-screen-calculator/");
@@ -31,6 +31,7 @@ public class OnlineCalculatorClearButtonTest extends BaseClass {
 		//// Need to implement the validation
 	}
 
+	//tes 22222222222222
 	@Test(priority = 3, description = "This TestCase will validate functionality of clear button preceded by entry of another clear button click ")
 	public void divisionTC3() {
 		builder.sendKeys("c").perform(); // 1st clear button click
