@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import testbase.BaseClass;
 
 public class OnlineCalculatorClearButtonTest extends BaseClass {
-	//committing from remote
+	//committing from remote2
 	//sampleteh REVIRE CHNAGES ACCOMODATED
 	//test
 	//tes 1111111111111111
