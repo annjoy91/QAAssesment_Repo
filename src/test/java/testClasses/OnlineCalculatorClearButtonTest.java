@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 import testbase.BaseClass;
 //1
 //2
+//3
 public class OnlineCalculatorClearButtonTest extends BaseClass {	
 	@BeforeMethod
 	public void setUp() {
