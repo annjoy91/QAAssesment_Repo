@@ -6,7 +6,9 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import testbase.BaseClass;
-//1st commit branch1 //1st commit WIP Test //comment fixed
+//1
+//2
+//3
 public class OnlineCalculatorClearButtonTest extends BaseClass {	
 	@BeforeMethod
 	public void setUp() {
