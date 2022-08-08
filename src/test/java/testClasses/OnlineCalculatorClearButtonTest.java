@@ -13,6 +13,8 @@ import testbase.BaseClass;
 //666666666666666666
 //br1
 //b1
+//b2
+//test
 public class OnlineCalculatorClearButtonTest extends BaseClass {	
 	@BeforeMethod
 	public void setUp() {
